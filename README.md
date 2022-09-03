@@ -1,7 +1,7 @@
 # Portfolio
 This is my public portfolio for a CMU course called Telling Stories with Data.
 
-## About me
+## About me 👩‍💻
 <p align="center"><img src="https://ruch798.github.io/assets/img/Portfolio_picture.png" width=300/></p>
 
 Hello 👋 
@@ -18,16 +18,16 @@ I'm the youngest [3x Kaggle Grandmaster](https://www.kaggle.com/ruchi798) and a 
 
 Having started coding at an early age, I can say my interest in this field has only grown with time. I gravitate more towards Data Science and Data Analysis. Working in the technology sector of various MNCs like Sony and Colgate-Palmolive has helped me gain relevant experience in the industry. 
 
-## What I hope to learn
+## What I hope to learn 👩‍🎓
 Through this course, I aim to:
-- 🎨 brush up on my Data Visualization skills 
-- 🎨 use color theory appropriately 
-- 🎨 leverage tools like Tableau and Flourish to effectively engage the target audience
-- 🎨 develop a thoughtful narrative style for the visualizations I create
+- brush up on my Data Visualization skills 
+- use color theory appropriately 
+- leverage tools like Tableau and Flourish to effectively engage the target audience
+- develop a thoughtful narrative style for the visualizations I create
 
-As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business. I plan to work as a *Product Manager* in the near future where I can utilize a data-driven approach to strategize effectively!
+As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business. I plan to work as a **Product Manager** in the near future where I can utilize a data-driven approach to strategize effectively!
 
-## Portfolio
+## Portfolio 🎨
 
 - Assignment 1 
 Setting up my online portfolio (this repository and the hosted website!)
