@@ -29,7 +29,7 @@ As businesses today are becoming more inextricably linked with information techn
 
 ## Portfolio 🎨
 
-- Assignment 1 : [Setting up my online portfolio](https://ruch798.github.io/Data-Visualization-Portfolio/) (this website!)
+- [Assignment 1](https://ruch798.github.io/Data-Visualization-Portfolio/) : Setting up my online portfolio (this website!)
 - [Assignment 2](Assignment2.md)
 - [Assignment 3](Assignment3.md)
 - [Final Project](FinalProject.md)
