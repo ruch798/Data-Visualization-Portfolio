@@ -35,4 +35,4 @@ As businesses today are becoming more inextricably linked with information techn
 - [Final Project](FinalProject.md)
 
 ## Example Chart
-<div class="flourish-embed" data-src="story/1673586"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed" data-src="story/1673649"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
