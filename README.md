@@ -1,7 +1,7 @@
 # Portfolio
 This is my public portfolio for a CMU course called Telling Stories with Data.
 
-## About me 👩‍💻
+## About Me 👩‍💻
 <p align="center"><img src="https://i.imgur.com/LpsNJaQ.png" width=300/></p>
 
 Hello 👋 
@@ -29,7 +29,7 @@ As businesses today are becoming more inextricably linked with information techn
 
 ## Portfolio 🎨
 
-- Assignment 1 : Setting up my online portfolio (this hosted website!)
+- Assignment 1 : [Setting up my online portfolio](https://ruch798.github.io/Data-Visualization-Portfolio/) (this website!)
 - [Assignment 2](Assignment2.md)
 - [Assignment 3](Assignment3.md)
 - [Final Project](FinalProject.md)
