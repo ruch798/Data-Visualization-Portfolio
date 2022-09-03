@@ -2,7 +2,7 @@
 This is my public portfolio for a CMU course called Telling Stories with Data.
 
 ## About me 👩‍💻
-<p align="center"><img src="https://ruch798.github.io/assets/img/Portfolio_picture.png" width=300/></p>
+<p align="center"><img src="https://i.imgur.com/LpsNJaQ.png" width=300/></p>
 
 Hello 👋 
 
@@ -29,10 +29,10 @@ As businesses today are becoming more inextricably linked with information techn
 
 ## Portfolio 🎨
 
-- Assignment 1 
-Setting up my online portfolio (this repository and the hosted website!)
+- Assignment 1 : Setting up my online portfolio (this hosted website!)
 - [Assignment 2](Assignment2.md)
 - [Assignment 3](Assignment3.md)
+- [Final Project](FinalProject.md)
 
 ## Example Chart
 <div class="flourish-embed" data-src="story/1673586"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
