@@ -33,7 +33,3 @@ As businesses today are becoming more inextricably linked with information techn
 - [Assignment 2](Assignment2.md)
 - [Assignment 3](Assignment3.md)
 - [Final Project](FinalProject.md)
-
-## Example Chart
-<div class="flourish-embed" data-src="story/1674233"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
