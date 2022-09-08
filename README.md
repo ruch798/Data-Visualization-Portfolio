@@ -1,4 +1,4 @@
-# Portfolio
+# [Portfolio](https://ruch798.github.io/Data-Visualization-Portfolio/)
 This is my public portfolio for a CMU course called Telling Stories with Data.
 
 ## About Me 👩‍💻
