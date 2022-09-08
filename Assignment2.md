@@ -15,4 +15,4 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
 
 ## Part 3
 ### Working with Tableau 
-<iframe src = "https://public.tableau.com/views/GovernmentDebt_16626745630780/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link"></iframe>
+<iframe src="https://public.tableau.com/views/GovernmentDebt_16626745630780/Dashboard1?:language=enGB&:display_count=y&:showVizHome=no&:origin=viz_share_link"></iframe>
