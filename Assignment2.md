@@ -51,7 +51,7 @@
 
 🎨 Crafting for clarity
 - If the reader is interested in a more precise value, we have **pop-ups to display additional information**.
-- The general audience may not grasp Alpha-3 country codes quickly which is why I merged an additional data source from Wikipedia to display the country names and **improve readability**. 
+- The general audience may not grasp Alpha-3 country codes quickly which is why I merged an [additional data source from Kaggle](https://www.kaggle.com/datasets/juanumusic/countries-iso-codes) to display the country names and **improve readability**. 
 
 🎨 Selecting chart types
 - This map is **static** and **less busy** compared to the circle packing chart which can **allow the user to explore trends at their own pace**.
