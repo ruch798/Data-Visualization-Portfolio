@@ -21,6 +21,7 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/11134241"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### Custom Visualization
+<div class="flourish-embed flourish-heatmap" data-src="visualisation/11147788"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Part 3: Working with Tableau 
 <iframe src="https://public.tableau.com/views/GovernmentDebt_16628232281880/Dashboard1?:language=enGB&:display_count=y&:showVizHome=no&:origin=viz_share_link" width="100%" height="1200" seamless frameborder="0"></iframe>
