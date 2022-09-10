@@ -73,6 +73,10 @@
   - In this case, **darker colors symbolize the higher risk factor of countries not being able to pay the government debt**.
   - The general audience may not grasp Alpha-3 country codes quickly which is why I merged an [additional data source from Kaggle](https://www.kaggle.com/datasets/juanumusic/countries-iso-codes) to display the country names and **improve readability**. 
 
+- Future improvement:
+  - I tried to sort the countries based on average debt-to-GDP ratio values over the years too.
+  - However, Flourish didn't have an option to do so. Perhaps, a Python data visualization will support the vision I had.
+
 **Bonus**: I've created a country heatmap visualization with Tableau which is much more easier to grasp for the user if they are well-versed with geography 😛
 
 **Data Source Acknowledgement**
