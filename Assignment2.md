@@ -11,7 +11,7 @@
 <iframe src="https://data.oecd.org/chart/6O8S" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6O8S" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 1995 – 2021</a></iframe>
 
 ## Part 2: Working with Flourish
-🎨 Grid of line charts allows us to visually compare several charts along a shared x and y axes.
+🎨 A Grid of line charts allows us to visually compare several charts along a shared x and y axes.
 
 📌 Takeaways:
 - The General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. 
