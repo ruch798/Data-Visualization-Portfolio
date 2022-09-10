@@ -72,8 +72,7 @@
   - The color scale aids the user to pick up on patterns faster. 
   - In this case, **darker colors symbolize the higher risk factor of countries not being able to pay the government debt**.
 
-**Bonus**
-I've created a country heatmap visualization with Tableau which is much more easier to grasp for the user if they are well-versed with geography 😛
+**Bonus**: I've created a country heatmap visualization with Tableau which is much more easier to grasp for the user if they are well-versed with geography 😛
 
 ## Part 3: Working with Tableau 
 ### Heatmap
