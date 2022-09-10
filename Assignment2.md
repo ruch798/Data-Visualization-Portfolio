@@ -1,5 +1,11 @@
 # Assignment 2
 
+# Table of Contents
+1. Part 1: Working with web-based visualization tools and data
+2. Part 2: Working with Flourish
+3. Part 3: Working with Tableau
+4. Critique: Different methods of visualization
+
 ## Part 1: Working with web-based visualization tools and data 
 
 ### 2021: Top 5 Countries with the highest Government Debt-to-GDP ratio
@@ -21,9 +27,32 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/11134241"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### Custom Visualization
+🎨 A circle packing chart allows us to visualize large datasets faster.
+
+📌 Takeaways:
+- Bigger circles depict higher debt-to-GDP ratios.
+- We can infer that Japan and Greece continue to be at the center of the map during most years depicting the hight debt-to-GDP ratios. 
+- The interactive chart shows an annual snapshot of the different countries, one year at a time. Thus, we can interpret how the positioning changed over time.
+- **Drawback?** I tried to adjust the color scale to match the size of the circles to make it faster to interpret. But Flourish doesn't support color by value for this visualization type. This made me opt for a heatmap. 
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11146915"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+🎨 A heatmap allows us to visually compare categorical data faster with the help of color.
+
+📌 Takeaways:
+- We can infer that the OECD average has increased over time, especially in the past few years. 
+- If the reader is interested in a more precise value, we have pop-ups to display additional information.
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/11147788"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Part 3: Working with Tableau 
 <iframe src="https://public.tableau.com/views/GovernmentDebt_16628232281880/Dashboard1?:language=enGB&:display_count=y&:showVizHome=no&:origin=viz_share_link" width="100%" height="1200" seamless frameborder="0"></iframe>
 
 <iframe src="https://public.tableau.com/views/GovernmentDebtmapped/Dashboard2?:language=enGB&:display_count=y&:showVizHome=no&:origin=viz_share_link" width="100%" height="1200" seamless frameborder="0"></iframe>
+
+## Critique: Different methods of visualization
+| Type of visualization | Comments |
+|-----------------------|----------|
+| Bar chart             |          |
+| Line chart            |          |
+| Grid of line charts   |          |
+| Heatmap               |          |
+| Country Heatmap       |          |
