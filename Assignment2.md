@@ -71,9 +71,15 @@
   - All the country trends over time can be displayed with minimal eye travel. 
   - The color scale aids the user to pick up on patterns faster. 
   - In this case, **darker colors symbolize the higher risk factor of countries not being able to pay the government debt**.
-  - The general audience may not grasp Alpha-3 country codes quickly which is why I merged an [additional data source from Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3#:~:text=ISO%203166%2D1%20alpha%2D3%20codes%20are%20three%2Dletter,special%20areas%20of%20geographical%20interest) to display the country names and **improve readability**. 
+  - The general audience may not grasp Alpha-3 country codes quickly which is why I merged an [additional data source from Kaggle](https://www.kaggle.com/datasets/juanumusic/countries-iso-codes) to display the country names and **improve readability**. 
 
 **Bonus**: I've created a country heatmap visualization with Tableau which is much more easier to grasp for the user if they are well-versed with geography 😛
+
+Data source Acknowledgement
+- [OECD](https://data.oecd.org/gga/general-government-debt.htm)
+This dataset provided the debt-to-GDP ratio for different countries from 1995-2021. 
+- [Kaggle Dataset](https://www.kaggle.com/datasets/juanumusic/countries-iso-codes)
+This dataset helped me to map country names to the Alpha-3 country codes.
 
 ## Part 3: Working with Tableau 
 ### Country Heatmap
