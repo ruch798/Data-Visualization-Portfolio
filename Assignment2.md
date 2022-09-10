@@ -75,11 +75,9 @@
 
 **Bonus**: I've created a country heatmap visualization with Tableau which is much more easier to grasp for the user if they are well-versed with geography 😛
 
-Data source Acknowledgement
-- [OECD](https://data.oecd.org/gga/general-government-debt.htm)
-This dataset provided the debt-to-GDP ratio for different countries from 1995-2021. 
-- [Kaggle Dataset](https://www.kaggle.com/datasets/juanumusic/countries-iso-codes)
-This dataset helped me to map country names to the Alpha-3 country codes.
+**Data Source Acknowledgement**
+- [OECD](https://data.oecd.org/gga/general-government-debt.htm): This dataset provided the debt-to-GDP ratio for different countries from 1995-2021. 
+- [Kaggle Dataset](https://www.kaggle.com/datasets/juanumusic/countries-iso-codes): This dataset helped me to map country names to the Alpha-3 country codes.
 
 ## Part 3: Working with Tableau 
 ### Country Heatmap
