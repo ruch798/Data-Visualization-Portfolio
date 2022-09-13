@@ -5,3 +5,6 @@
 
 ## COVID-19 cases
 <div class="flourish-embed flourish-chart" data-src="visualisation/11109426"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Media Trust
+<iframe src="https://public.tableau.com/views/Trustinnewsorganizations_16630750197530/Sheet1?:language=enGB&:display_count=y&:showVizHome=no&:origin=viz_share_link" width="100%" height="1200" seamless frameborder="0"></iframe>
