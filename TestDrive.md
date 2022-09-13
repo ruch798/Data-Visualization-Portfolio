@@ -7,10 +7,6 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/11109426"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Media Trust
-<iframe src="https://public.tableau.com/views/Trustinnewsorganizations_16630750197530/Sheet1?:language=enGB&:display_count=y&:showVizHome=no&:origin=viz_share_link" width="100%" height="1200" seamless frameborder="0"></iframe>
-
-<hr/>
-
 <div class='tableauPlaceholder' id='viz1663075102682' style='position: relative'><noscript><a href='#'><img alt='Trust in news organizations (source: Simmons Research) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;Trustinnewsorganizations_16630750197530&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Trustinnewsorganizations_16630750197530&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;Trustinnewsorganizations_16630750197530&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>      
 
 <script type='text/javascript'>                    
