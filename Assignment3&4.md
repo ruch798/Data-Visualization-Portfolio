@@ -67,11 +67,28 @@ The data visualization is interesting but confusing to interpret.
 - It inspires the audience to share it with more people in their network.
 
 ### Overall observations
-What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?  
+What went well 🤩
+- The timeline at the bottom of the chart helps us infer that more extensive M&A occurred when the market was exceptionally down.
+
+What didn't go well 😠
+- The chosen chart type is extremely inaccurate for conveying information. For a tech audience, accuracy is more important than design. 
+
+What would I do differently? 🥳
+- If I had to use the same chart type, I would ensure I provide a scale for visual comparison and correct the scale factor of data points.
+- I would get rid of color since the length of the bars would suffice.
 
 ### Audience 
-Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not?
+The primary audience for this tool is people from the tech industry: 
+- engineers interested in staying on top of trends, 
+- engineers interested in working for said companies, 
+- technical consultants looking to advise companies interested in M&A
+
+The visualization draws the attention of the audience. But inaccuracies will be uncovered when we pay attention to detail. Therefore, this is not an appropriate chart to be shared at board or executive meetings with senior company members who would value accuracy more than design.
 
 ### Final thoughts
-How successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here?  What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)
-
+This method was successful at evaluating the visualization I had picked. 
+I would include **simplicity** as a factor for evaluating a visualization as well. 
+The measure would aim to capture whether a visualization is simple to understand. 
+- whether it has highlighted only a small number of categories to **improve the focus of the reader**
+- whether it **uses color appropriately** to make critical information stand out
+- whether it keeps eye travel to a minimum
