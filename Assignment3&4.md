@@ -21,7 +21,7 @@ With the knowledge I have about critiquing visualizations through this course, I
 ### Usefulness 
 📝 Is it useful for the intended audience?  Does it communicate valuable information?
 <p align="center"><img src="https://i.imgur.com/Sc8Maxu.png" width=700></p>
-The visualization communicates useful information for a tech audience interested in learning more about **mergers and acquisistions during the pandemic**.
+The visualization communicates useful information for a tech audience interested in learning more about **tech acquisistions during the pandemic**.
 
 ### Completeness  
 📝 Does the visualization have everything necessary to make it understandable?
