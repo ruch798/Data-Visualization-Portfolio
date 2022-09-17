@@ -16,7 +16,7 @@ With the knowledge I have about critiquing visualizations through this course, I
 
 ![](https://i.imgur.com/WKVfvI7.png)
 
-## Step two: critique the data visualization
+## Step two: critique the data visualization with Data Visualization Effectiveness Profile
 ## Informative 📚
 ### Usefulness 
 📝 Is it useful for the intended audience?  Does it communicate valuable information?
