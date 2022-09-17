@@ -103,11 +103,14 @@ The measure would aim to capture whether a visualization is simple to understand
 <p align="center"><img src="https://i.imgur.com/ZWmWcMs.jpg" width=800></p>
 
 ### Same chart but neater! Thanks to Tableau ✨
-<div class='tableauPlaceholder' id='viz1663443838784' style='position: relative'><noscript><a href='#'><img alt='NVIDIA spent the most on tech acquisitions in 2020 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3_16634406236410&#47;Sketch1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment3_16634406236410&#47;Sketch1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3_16634406236410&#47;Sketch1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
+<div class='tableauPlaceholder' id='viz1663450753272' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-OriginalDesign&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment3-OriginalDesign&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-OriginalDesign&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1663443838784');                    
+  var divElement = document.getElementById('viz1663450753272');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+  else if ( divElement.offsetWidth > 500 ) 
+  { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+  else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
@@ -120,7 +123,7 @@ The measure would aim to capture whether a visualization is simple to understand
 ## 🎙️ Interview 2 : Computer Engineer, mid 20's 
 <p align="center"><img src="https://i.imgur.com/0EGFssY.png"></p>
 
-**Similarities **
+**Similarities**
 - The interviewees could interpret what the chart was about.
 - The interviewees shared similar thoughts as me regarding the audience for this data visualization.
 - The interviewees preferred a uniformly sorted chart and recommended opting for a stacked bar chart representing the total expense of companies on M&A in 2020.
@@ -128,10 +131,25 @@ The measure would aim to capture whether a visualization is simple to understand
 **Differences**
 - One of them had the same takeaway as the title. The other interviewee focused more on the data and had a new insight.
 
-**What patterns in the feedback emerge?  **
+**What patterns in the feedback emerge?**
 - The feedback began to get more detailed as they spent more time looking at the chart.
 
-**What did you learn from the feedback?  **
+**What did you learn from the feedback?**
 - The chart type would need restructuring to make it more clear.
 - The title needed some work to convey the message correctly and avoid confusion.
 - The median reference line would be a better measure than the average.
+
+## Step five: Build your solution 🔨
+<div class='tableauPlaceholder' id='viz1663450586209' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-Re-Design&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment3-Re-Design&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-Re-Design&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1663450586209');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  if ( divElement.offsetWidth > 800 ) 
+  { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+  else if ( divElement.offsetWidth > 500 ) 
+  { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+  else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
