@@ -1,5 +1,5 @@
 # Assignment 3 and 4
-## Step one: find a data visualization (with data you can use!)
+## Step one: find a data visualization (with data you can use!) 🔎
 
 As a Computer Engineer, it is imperative to be updated about advancements in the industry, especially when there are new strides daily. 
 
@@ -16,7 +16,7 @@ With the knowledge I have about critiquing visualizations through this course, I
 
 ![](https://i.imgur.com/WKVfvI7.png)
 
-## Step two: critique the data visualization with Data Visualization Effectiveness Profile
+## Step two: critique the data visualization with Data Visualization Effectiveness Profile 👩‍💻
 ## Informative 📚
 ### Usefulness 
 📝 Is it useful for the intended audience?  Does it communicate valuable information?
@@ -112,3 +112,7 @@ The measure would aim to capture whether a visualization is simple to understand
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+## Step four: Test the solution 🧪
+### 🎙️ Interview 1 : Technical Consultant, mid 20's 
+<p align="center"><img src="https://i.imgur.com/V8U7fap.png"></p>
