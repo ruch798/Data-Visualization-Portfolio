@@ -153,3 +153,28 @@ The measure would aim to capture whether a visualization is simple to understand
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+### ✏️ Changes I made:
+**Title & Subtitle**
+- I changed the title to highlight that the chart represents acquisitions of big tech in 2020.
+- I added a title that includes the key takeaway, which is: NVIDIA spent the most 💰
+
+**Reference line**
+- In place of the average reference line, I added a median reference line to represent the data better.
+
+**Chart structure**
+- I modified the chart structure to represent companies' total spending in acquisitions in 2020.  
+- Two companies acquired more than one company. I wanted this information to be represented. Therefore, for those who wish to dig deeper into the visualization, I've added dark lines inside the bar to represent a distinction between the companies acquired. 
+- I added a tooltip to include more details about the acquisition: the date of the acquisition and the amount spent. 
+
+### What my redesigned data visualization depicts
+- I changed the chart's structure to represent the total amount spent on acquisitions by big tech in 2020.
+- I highlighted that NVIDIA spent the most compared to other companies.
+
+### Reason for selecting the data visualization 
+- I preferred this visualization since **"Less is better."**
+- If people want to look for greater detail, they can hover over the bars to find what they need.
+Reducing visual clutter makes a chart easier to understand. 
+
+### What I attempted to show or do differently
+- Rather than showing the acquisitions in chronological order like the original source, I re-ordered the chart to represent a sorted bar chart in order of the total amount spent on acquisitions which is more in line with what the original source intended to portray ("Visualizing the Biggest Tech Mergers and Acquisitions of 2020.")
