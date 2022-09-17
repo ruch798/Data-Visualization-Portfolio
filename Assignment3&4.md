@@ -12,8 +12,8 @@ I remember coming across a visualization about the biggest tech acquisitions in 
 With the knowledge I have about critiquing visualizations through this course, I could see a lot of reasons why the chart was challenging to interpret and misleading in several ways.
 
 **Data visualization and source:** 
-- This **data visualization** was published by [Visual Capitalist](https://www.visualcapitalist.com/visualizing-biggest-tech-mergers-and-acquisitions-of-2020/) in an article called "Visualizing the Biggest Tech Mergers and Acquisitions of 2020".
-- The **data source** for this visualization was an [article published by Computer World](https://www.computerworld.com/article/3513439/biggest-technology-acquisitions-of-2020.html).
+- Visual Capitalist published this data visualization in an article called [Visualizing the Biggest Tech Mergers and Acquisitions of 2020]((https://www.visualcapitalist.com/visualizing-biggest-tech-mergers-and-acquisitions-of-2020/)).
+- The **original data source** for this visualization was an [article published by Computer World](https://www.computerworld.com/article/3513439/biggest-technology-acquisitions-of-2020.html).
 
 ![](https://i.imgur.com/WKVfvI7.png)
 
