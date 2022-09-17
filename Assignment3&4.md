@@ -13,8 +13,7 @@ With the knowledge I have about critiquing visualizations through this course, I
 
 **Data visualization and source:** 
 - This **data visualization** was published by [Visual Capitalist](https://www.visualcapitalist.com/visualizing-biggest-tech-mergers-and-acquisitions-of-2020/).
-- The **data source** for this visualization was an [article published by Computer World](https://www.computerworld.com/article/3513439/biggest-technology-acquisitions-of-2020.html). 
-- Since there weren't many data points, I compiled the information in a [.csv file](https://www.kaggle.com/datasets/ruchi798/biggest-tech-acquisitions2020) without spending too much time.
+- The **data source** for this visualization was an [article published by Computer World](https://www.computerworld.com/article/3513439/biggest-technology-acquisitions-of-2020.html).
 
 ![](https://i.imgur.com/WKVfvI7.png)
 
