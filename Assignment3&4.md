@@ -7,7 +7,7 @@ As a Computer Engineer, it is imperative to be updated about advancements in the
 
 I remember coming across a visualization about the biggest tech acquisitions in 2020, which was extremely hard to infer when I first glanced at it. 
 
-### 🗓️ 2022 - Reviewing it from a critique's perspective
+### 🗓️ 2022 - Reviewing it from a critic's perspective
 
 With the knowledge I have about critiquing visualizations through this course, I could see a lot of reasons why the chart was challenging to interpret and misleading in several ways.
 
