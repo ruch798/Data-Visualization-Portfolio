@@ -119,3 +119,19 @@ The measure would aim to capture whether a visualization is simple to understand
 
 ## 🎙️ Interview 2 : Computer Engineer, mid 20's 
 <p align="center"><img src="https://i.imgur.com/0EGFssY.png"></p>
+
+**Similarities **
+- The interviewees could interpret what the chart was about.
+- The interviewees shared similar thoughts as me regarding the audience for this data visualization.
+- The interviewees preferred a uniformly sorted chart and recommended opting for a stacked bar chart representing the total expense of companies on M&A in 2020.
+
+**Differences**
+- One of them had the same takeaway as the title. The other interviewee focused more on the data and had a new insight.
+
+**What patterns in the feedback emerge?  **
+- The feedback began to get more detailed as they spent more time looking at the chart.
+
+**What did you learn from the feedback?  **
+- The chart type would need restructuring to make it more clear.
+- The title needed some work to convey the message correctly and avoid confusion.
+- The median reference line would be a better measure than the average.
