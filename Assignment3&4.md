@@ -116,3 +116,6 @@ The measure would aim to capture whether a visualization is simple to understand
 ## Step four: Test the solution 🧪
 ### 🎙️ Interview 1 : Technical Consultant, mid 20's 
 <p align="center"><img src="https://i.imgur.com/V8U7fap.png"></p>
+
+### 🎙️ Interview 2 : Computer Engineer, mid 20's 
+<p align="center"><img src="https://i.imgur.com/0EGFssY.png"></p>
