@@ -92,3 +92,23 @@ The measure would aim to capture whether a visualization is simple to understand
 - whether it has highlighted only a small number of categories to **improve the focus of the reader**
 - whether it **uses color appropriately** to make critical information stand out
 - whether it keeps eye travel to a minimum
+
+## Step three: sketch out a solution 🎨
+- **Chart type**: In my re-design, the first thing I did was to use a familiar chart type that represents the scale accurately, which is what led me to choose a bar chart.
+- **Column**: Rather than showing the Acquiree information inside the bars, I created a separate column for it right next to the Acquirer Company. Since most people read the chart from left to right, they would first see the Acquirer company, then the acquired company, and finally the amount spent.
+- **Color**: I chose to highlight NVIDIA's spend compared to all the companies by using the color green and graying out the rest. In addition, I opted for this shade of green since it is similar to the company's logo and would immediately stand out to those in the tech industry.
+- **Reference line**: I chose to highlight the average amount spent on acquisitions to establish a line of reference for big tech companies depicted in the chart.
+- **Title**: I changed the title to "NVIDIA spent the most on tech acquisitions in 2020" so that readers can quickly interpret the chart and understand the key takeaway.
+
+<p align="center"><img src="https://i.imgur.com/ZWmWcMs.jpg" width=800></p>
+
+### Same chart but neater! Thanks to Tableau ✨
+<div class='tableauPlaceholder' id='viz1663443838784' style='position: relative'><noscript><a href='#'><img alt='NVIDIA spent the most on tech acquisitions in 2020 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3_16634406236410&#47;Sketch1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment3_16634406236410&#47;Sketch1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3_16634406236410&#47;Sketch1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1663443838784');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
