@@ -122,6 +122,7 @@ The measure would aim to capture whether a visualization is simple to understand
 
 ## 🎙️ Interview 2 : Computer Engineer, mid 20's 
 <p align="center"><img src="https://i.imgur.com/0EGFssY.png"></p>
+[HTML template by Bootdey](https://www.bootdey.com/snippets/download/card-chat-list), MIT License
 
 **Similarities**
 - The interviewees could interpret what the chart was about.
