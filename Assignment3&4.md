@@ -177,8 +177,23 @@ Reducing visual clutter makes a chart easier to understand.
 - Rather than showing the acquisitions in chronological order like the original source, I re-ordered the chart to represent a sorted bar chart in order of the total amount spent on acquisitions which is more in line with what the original source intended to portray ("Visualizing the Biggest Tech Mergers and Acquisitions of 2020.")
 
 ## In-class Peer Feedback
+### What worked? 😁
+- The engaging title made the important information stand out from the visual.
+- Minimizing the visual clutter helped them to process information faster and focus on what’s important.
 
-## Final Re-Design
+### What didn’t work? 😟
+- They wanted to see labels for the names of the acquired companies. 
+
+### What questions came up? 🤔
+- How long did the acquisition process take? 
+- Did these acquisitions start before the pandemic and take years to finalize?
+
+### What new inspiration arose? ✨
+The group preferred to see more static information on the chart. Hovering on the bars provides more details about the acquisition but they wanted to minimize interaction to see these details. Only some people like interactive charts!
+
+## Final Re-Design 🖼️ 
+Since I wanted to keep the text in the chart to a minimum, I decided to only show the names of the companies acquired by NVIDIA (the company that spent the most on acquisitions in 2020).
+
 <div class='tableauPlaceholder' id='viz1663684488902' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-Re-Design&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment3-Re-Design&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-Re-Design&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1663684488902');                    
