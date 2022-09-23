@@ -32,4 +32,4 @@ As businesses today are becoming more inextricably linked with information techn
 - [Assignment 1](https://ruch798.github.io/Data-Visualization-Portfolio/) : Setting up my online portfolio (this website!)
 - [Assignment 2](Assignment2.md)
 - [Assignment 3 and 4](Assignment3&4.md)
-- [Part I: Final Project](PartI:FinalProject.md)
+- [Part I: Final Project](Part1_FinalProject.md)
