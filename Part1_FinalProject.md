@@ -40,14 +40,32 @@ Sections I'd like to highlight during my presentation:
 ## Initial Sketches 🎨 
 
 ### Setup
+
+**Sketch #1**
 - People spend roughly one-half of their waking hours (44%) staring at a screen.
+
+<p align="center">
+<img src="https://i.imgur.com/UCj0RN2.jpg" height=350> 
+</p>
 
 <p align="center">
 <img src="https://i.imgur.com/WWvRx7d.png" height=350> 
 </p>
 
+**Sketch #2**
+- Global mobile phone usage average.
+<p align="center">
+<img src="https://i.imgur.com/v2YEr9p.png" height=350>
+</p>  
+
 <p align="center">
 <img src="https://i.imgur.com/Xm78rLn.png" height=350>
+</p>  
+
+**Sketch #3**
+- Apps I use the most
+<p align="center">
+<img src="https://i.imgur.com/zFCTkcC.png" height=350>
 </p>  
 
 <div class='tableauPlaceholder' id='viz1664223406031' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;My&#47;Myappusage&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Myappusage&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;My&#47;Myappusage&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /></object></div>                
@@ -64,6 +82,13 @@ Sections I'd like to highlight during my presentation:
 
 ### Conflict
 - Reduces productivity.
+
+**Sketch #4**
+- Notifications are distracting.
+<p align="center">
+<img src="https://i.imgur.com/TtPigwI.png" height=350>
+</p>  
+
 <div class='tableauPlaceholder' id='viz1664224117746' style='position: relative'><noscript><a href='#'><img alt='Dashboard 3 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;No&#47;Notificationsaredistracting&#47;Dashboard3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Notificationsaredistracting&#47;Dashboard3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;No&#47;Notificationsaredistracting&#47;Dashboard3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1664224117746');                    
@@ -76,6 +101,10 @@ Sections I'd like to highlight during my presentation:
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+- Notifications and Usage are related.
+<p align="center">
+<img src="https://i.imgur.com/FkvhtoE.jpg" height=350>
+</p>  
 <div class='tableauPlaceholder' id='viz1664224244586' style='position: relative'><noscript><a href='#'><img alt='Dashboard 4 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;No&#47;Notificationsandusagearerelated&#47;Dashboard4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Notificationsandusagearerelated&#47;Dashboard4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;No&#47;Notificationsandusagearerelated&#47;Dashboard4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1664224244586');                    
@@ -89,6 +118,10 @@ Sections I'd like to highlight during my presentation:
 </script>
 
 - Prone to developing addictive patterns.
+- Curiosity about the issue of phone addiction is on the rise!
+<p align="center">
+<img src="https://i.imgur.com/tGIC0bp.png" height=350>
+</p>  
 <div class='tableauPlaceholder' id='viz1664227785921' style='position: relative'><noscript><a href='#'><img alt='Dashboard 6 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GoogleTrends-Phoneaddictionovertime&#47;Dashboard6&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GoogleTrends-Phoneaddictionovertime&#47;Dashboard6' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GoogleTrends-Phoneaddictionovertime&#47;Dashboard6&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1664227785921');                    
@@ -101,6 +134,7 @@ Sections I'd like to highlight during my presentation:
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+- Most countries have looked up Phone Addiction on Google!
 <div class='tableauPlaceholder' id='viz1664224426224' style='position: relative'><noscript><a href='#'><img alt='Dashboard 5 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GoogleTrends-Phoneaddictionbyregion&#47;Dashboard5&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GoogleTrends-Phoneaddictionbyregion&#47;Dashboard5' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GoogleTrends-Phoneaddictionbyregion&#47;Dashboard5&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1664224426224');                    
@@ -114,6 +148,10 @@ Sections I'd like to highlight during my presentation:
 </script>
 
 ### Resolution
+- Current Global average mobile usage vs Recommended
+<p align="center">
+<img src="https://i.imgur.com/fEGgcuW.jpg" height=350>
+</p> 
 <p align="center">
 <img src="https://i.imgur.com/qGAmoCr.png" height=350>
 </p> 
