@@ -17,6 +17,21 @@ I can do this by turning off my phone notifications and setting time limits for 
 - **Conflict**: However, excessive screen time exacerbates mental and physical health and sometimes hurts our productivity.
 - **Resolution**: Taking small steps such as setting time limits for social media applications to minimize screen time daily can improve one's health in the long run.
 
+**Story Arc 📜** 
+Sections I'd like to highlight during my presentation:
+**Setup:**
+- Technology exposes us to a lot of data daily. 
+- People spend roughly one-half of their waking hours (44%) staring at a screen.
+
+**Conflict:**
+- Increases chances of obesity, vision problems, and insomnia.
+- Social media comparison might hurt your self-esteem.
+- Reduces productivity.
+- Prone to developing addictive patterns.
+
+**Resolution:**
+- Recommendations to minimize screen time and lead a healthy lifestyle.
+
 ## Initial Sketches 🎨 
 
 ## Data 📚 
