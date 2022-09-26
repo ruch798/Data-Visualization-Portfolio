@@ -29,3 +29,9 @@ I can do this by turning off my phone notifications and setting time limits for 
 |  |  | []()|
 
 ## Method and Medium ⚙️ 
+I will be using the following tools for implementing my project:
+- **Shorthand**: for developing my story narrative and delivering it effectively
+- **Tableau** and **Flourish**: for creating data visualizations that are interactive
+- **Canva**: for creating custom visuals that support my story arc
+
+I intend to include accompanying graphics, such as reference charts, to help the audience understand the charts' takeaway faster.
