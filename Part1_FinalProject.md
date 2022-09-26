@@ -18,6 +18,7 @@ I can do this by turning off my phone notifications and setting time limits for 
 - **Resolution**: Taking small steps such as setting time limits for social media applications to minimize screen time daily can improve one's health in the long run.
 
 **Story Arc 📜** 
+
 Sections I'd like to highlight during my presentation:
 **Setup:**
 - Technology exposes us to a lot of data daily. 
