@@ -227,7 +227,7 @@ Finally, my call to action will include action items that will help to minimize 
 ### What questions came up? 🤔
 - Are there research papers published that had a focus group of people for monitoring cell phone usage with and without notifications enabled?
 - Are certain apps more addictive than others?
-- 
+
 ### What new inspiration arose? ✨
 It was interesting to hear that the group wanted me to look into research conducted on this topic. I plan on doing so and including more visuals in my next draft.
 
