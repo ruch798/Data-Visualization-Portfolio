@@ -157,11 +157,11 @@ Sections I'd like to highlight during my presentation:
 </p> 
 
 ## Data 📚 
-<table>
+<table >
   <tbody>
     <tr>
-      <th align="center">Name</th>
-      <th align="center">Description</th>
+      <th>Name</th>
+      <th>Description</th>
     </tr>
     <tr>
       <td>
@@ -169,20 +169,22 @@ Sections I'd like to highlight during my presentation:
       </td>
       <td><ul>
         <li> This blog contains global statistics on screen time. </li>
-        <li>I utilized this blog source for the <b>Setup</b> section to illustrate the time spent by people in front of screens and the global mobile usage average to establish that the world is going through a problem that needs to be solved. </li>
+        <li>I utilized this blog source for the <b>Setup</b> section to illustrate the time spent by people in front of screens.</li>
+        <li>The global mobile usage average helps to establish that the world is going through a problem that needs to be solved.</li>
         </ul></td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/ruch798/Data-Visualization-Portfolio/tree/main/data/Personal">Digital Wellbeing data</a>
       </td>
-      <td><ul><li>Data was gathered from my Samsung phone's "Digital Wellbeing" feature.</li><li>It has information like how often I accessed an app and received notifications from it daily.</li><li>I also utilized this data for the <b>Conflict</b> section, where I talk about how productivity is impacted. For example, the greater the number of notifications, the more frequently I open the app and the greater my app usage. </li></ul></td>
+      <td><ul><li>Data was gathered from my Samsung phone's "Digital Wellbeing" feature.</li><li>It has information like how often I accessed an app and received notifications from it daily.</li><li>I also utilized this data for the <b>Conflict</b> section, where I talk about how productivity is impacted.</li>
+        <li>For example, the greater the number of notifications, the more frequently I open the app and the greater my app usage. </li></ul></td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/ruch798/Data-Visualization-Portfolio/tree/main/data/Google%20Trends">Google Trends data</a>
       </td>
-      <td><ul><li>This dataset contains timeseries and geospatial data about search interest in phone addiction. </li<li>I've included in the <b>Conflict</b> section, where I discuss how more and more people are concerned about their reliance on smartphones.</li></ul></td>
+      <td><ul><li>This dataset contains timeseries and geospatial data about search interest in phone addiction. </li><li>I've included in the <b>Conflict</b> section, where I discuss how more and more people are concerned about their reliance on smartphones.</li></ul></td>
     </tr>
     <tr>
       <td>
