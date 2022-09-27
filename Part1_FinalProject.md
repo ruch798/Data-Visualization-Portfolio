@@ -64,9 +64,12 @@ Sections I'd like to highlight during my presentation:
 <p align="center">
 <img src="https://i.imgur.com/p9kOY67.png" height=350>
 </p>  
-
+ 
 **Sketch #3**
-- Apps I use the most
+- Most people use Social media apps more than others.
+- UI and UX designers spend a lot of time improving the user experience to make it more pleasant (or addictive?) since the whole business model is predicated on users remaining actively engaged for extended periods. 
+- The general color scheme and design of the user interface are great touches that improve the feel of using the product.
+
 <p align="center">
 <img src="https://i.imgur.com/zFCTkcC.png" height=350>
 </p>  
@@ -211,3 +214,42 @@ Finally, my call to action will include action items that will help to minimize 
 - Turning off your phone’s notifications
 - Set your display color scale to monochrome during work hours
 - Set a time limit for apps that you use the most!
+
+## In-class Peer Feedback
+### What worked? 😁
+- Displaying charts of my own mobile phone usage data. Added a personal touch!
+
+### What didn’t work? 😟
+- The dual axis Notification-Times opened chart took time to interpret. 
+- No visual colour grouping in the Most used apps chart.
+- Colors for calendar icons in the Mobile Usage chart seemed redundant. Icons were not legible.
+
+### What questions came up? 🤔
+- Are there research papers published that had a focus group of people for monitoring cell phone usage with and without notifications enabled?
+- Are certain apps more addictive than others?
+- 
+### What new inspiration arose? ✨
+It was interesting to hear that the group wanted me to look into research conducted on this topic. I plan on doing so and including more visuals in my next draft.
+
+## Final Re-Design 🖼️ 
+
+### Changes I made 🖌
+- Changed the Notifications-Times opened chart type to make it more interpretable.
+
+- Created a set for Social Media apps in the apps used most chart to make the social media app names stand out.
+<div class='tableauPlaceholder' id='viz1664296969856' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;My&#47;Myappusage-updated&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Myappusage-updated&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;My&#47;Myappusage-updated&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>              
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1664296969856');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+  else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+  else { vizElement.style.width='100%';vizElement.style.height='1577px';}                     
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+- Increased the size of the calendar icons and changed the color to black to minimize colors used in the chart. 
+<p align="center">
+<img src="https://i.imgur.com/uckYH1R.png" height=600>
+</p> 
