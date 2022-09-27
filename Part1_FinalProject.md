@@ -157,12 +157,42 @@ Sections I'd like to highlight during my presentation:
 </p> 
 
 ## Data 📚 
-| Name | Description |
-|:------------|:------------|
-| [Exploding Topics blog](https://explodingtopics.com/blog/screen-time-stats)| <ul><li> This blog contains global statistics on screen time. </li><li>I utilized this blog source for the **Setup** section to illustrate the time spent by people in front of screens and the global mobile usage average to establish that the world is going through a problem that needs to be solved. </li></ul> |
-| [Digital Wellbeing data](https://github.com/ruch798/Data-Visualization-Portfolio/tree/main/data/Personal) | <ul><li>Data was gathered from my Samsung phone's "Digital Wellbeing" feature.</li><li>It has information like how often I accessed an app and received notifications from it daily.</li><li>I also utilized this data for the **Conflict** section, where I talk about how productivity is impacted. For example, the greater the number of notifications, the more frequently I open the app and the greater my app usage. </li></ul>| 
-| [Google Trends data](https://github.com/ruch798/Data-Visualization-Portfolio/tree/main/data/Google%20Trends)| <ul><li>This dataset contains timeseries and geospatial data about search interest in phone addiction. </li<li>I've included in the **Conflict** section, where I discuss how more and more people are concerned about their reliance on smartphones.</li></ul> |
-| [Reid Health blog](https://www.reidhealth.org/blog/screen-time-for-adults#:~:text=Experts%20say%20adults%20should%20limit,spent%20participating%20in%20physical%20activity.)| <ul><li>This article discusses what constitutes a "healthy" amount of time screen time for adults.</li><li>I've used this statistic for the **Resolution** section. I reference a chart from the Setup section that shows how much time people across the world spend on their mobile devices on average, and then compare it to the suggested time to highlight how many days of our lives can be saved by cutting back only an hour a day.</li></ul> |
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Name</th>
+      <th align="center">Description</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://explodingtopics.com/blog/screen-time-stats">Exploding Topics blog</a>
+      </td>
+      <td><ul>
+        <li> This blog contains global statistics on screen time. </li>
+        <li>I utilized this blog source for the <b>Setup</b> section to illustrate the time spent by people in front of screens and the global mobile usage average to establish that the world is going through a problem that needs to be solved. </li>
+        </ul></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ruch798/Data-Visualization-Portfolio/tree/main/data/Personal">Digital Wellbeing data</a>
+      </td>
+      <td><ul><li>Data was gathered from my Samsung phone's "Digital Wellbeing" feature.</li><li>It has information like how often I accessed an app and received notifications from it daily.</li><li>I also utilized this data for the <b>Conflict</b> section, where I talk about how productivity is impacted. For example, the greater the number of notifications, the more frequently I open the app and the greater my app usage. </li></ul></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ruch798/Data-Visualization-Portfolio/tree/main/data/Google%20Trends">Google Trends data</a>
+      </td>
+      <td><ul><li>This dataset contains timeseries and geospatial data about search interest in phone addiction. </li<li>I've included in the <b>Conflict</b> section, where I discuss how more and more people are concerned about their reliance on smartphones.</li></ul></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.reidhealth.org/blog/screen-time-for-adults#:~:text=Experts%20say%20adults%20should%20limit,spent%20participating%20in%20physical%20activity.">Reid Health blog</a>
+      </td>
+      <td><ul><li>This article discusses what constitutes a "healthy" amount of time screen time for adults.</li><li>I've used this statistic for the <b>Resolution</b> section. I reference a chart from the Setup section that shows how much time people across the world spend on their mobile devices on average, and then compare it to the suggested time to highlight how many days of our lives can be saved by cutting back only an hour a day.</li></ul></td>
+    </tr>
+
+  </tbody>
+</table>
 
 ## Method and Medium ⚙️ 
 I will be using the following tools for implementing my project:
