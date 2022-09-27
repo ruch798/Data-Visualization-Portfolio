@@ -59,7 +59,7 @@ Sections I'd like to highlight during my presentation:
 </p>  
 
 <p align="center">
-<img src="https://i.imgur.com/Xm78rLn.png" height=350>
+<img src="https://i.imgur.com/p9kOY67.png" height=350>
 </p>  
 
 **Sketch #3**
@@ -153,7 +153,7 @@ Sections I'd like to highlight during my presentation:
 <img src="https://i.imgur.com/fEGgcuW.jpg" height=350>
 </p> 
 <p align="center">
-<img src="https://i.imgur.com/qGAmoCr.png" height=350>
+<img src="https://i.imgur.com/bF2T7Nz.png" height=600>
 </p> 
 
 ## Data 📚 
