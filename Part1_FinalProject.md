@@ -35,7 +35,10 @@ Sections I'd like to highlight during my presentation:
 - Prone to developing addictive patterns.
 
 **Resolution**
-- Recommendations to minimize screen time and lead a healthy lifestyle.
+- Recommendations to minimize screen time and lead a healthy lifestyle like: 
+  -   Turning off your phone’s notifications
+  -   Set your display color scale to monochrome during work hours
+  -   Set a time limit for apps that you use the most!
 
 ## Initial Sketches 🎨 
 
@@ -203,3 +206,8 @@ I will be using the following tools for implementing my project:
 - **Canva** and **Venngage**: for creating custom visuals that support my story arc
 
 I intend to include accompanying graphics, such as reference charts, to help the audience understand the charts' takeaway faster.
+
+Finally, my call to action will include action items that will help to minimize screen time!
+- Turning off your phone’s notifications
+- Set your display color scale to monochrome during work hours
+- Set a time limit for apps that you use the most!
