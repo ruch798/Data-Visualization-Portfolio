@@ -33,3 +33,4 @@ As businesses today are becoming more inextricably linked with information techn
 - [Assignment 2](Assignment2.md)
 - [Assignment 3 and 4](Assignment3&4.md)
 - [Part I: Final Project](Part1_FinalProject.md)
+- [Part II: Final Project](Part2_FinalProject.md)
