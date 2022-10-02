@@ -1,5 +1,5 @@
 # Part II: Final Project
-## Storyboard
+## Storyboard 📜
 [Shorthand Preview](https://preview.shorthand.com/sygERVpMYLxQNkei)
 
 ## Moodboard 📱
