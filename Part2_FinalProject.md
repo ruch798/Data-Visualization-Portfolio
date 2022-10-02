@@ -19,24 +19,37 @@ But to diversify the interview responses based on their usage patterns, I chose 
 ### 3. Interview script
 **Context:**
 - Do you track your social media usage?
+- 💬 Helpful Direct Quote: _"Only for Instagram, not for other apps."_
 
 **Audience:**
 - Who do you think is the intended audience for this?
+- 💬 Helpful Direct Quote: _"Young people who are glued to their screens all day long."_
 
 **Content:**
 - Was the content clear to follow?
+_ 💬 Helpful Direct Quote: _"Yes. Smooth flow of content."_
 
 **Takeaways:**
 - What was your key takeaway?
+- 💬 Helpful Direct Quote: _"Social media apps are created to draw the user's attention and keep them engaged. Awareness about this is on the rise."_
+
 - Is there anything you find surprising or confusing?
+- 💬 Helpful Direct Quote: _"We don't realize that a few minutes every now and then can amount to 3.25 hours a day, which translates to 44% of our awake time."_
 
 **Visuals:**
 - Did the charts help to grasp the information presented?
-- Did the visuals evoke a strong reaction?
-- Were the colors chosen thoughtfully?
-- Is there anything you would change or do differently?
+- 💬 Helpful Direct Quote: _"Yes. The charts were interesting!"_
 
-<a href="interview_responses.html" title="Interview Responses">✍️ Interview Responses</a>
+- Did the visuals evoke a strong reaction?
+- 💬 Helpful Direct Quote: _"The visuals were in-line with the content."_
+
+- Were the colors chosen thoughtfully?
+- 💬 Helpful Direct Quote: _"The color scheme matched the theme of the content. Extremely coherent and not too distracting."_
+
+- Is there anything you would change or do differently?
+- 💬 Helpful Direct Quote: _"I would like to read and learn more information about the data presented and see more call-to-action items to control my screen time."_
+        						
+<a href="interview_responses.html" title="Interview Responses">✍️ Click to see the List of Interview Responses.</a>
 
 ### 4. Findings from the interviews
 **Similarities**
