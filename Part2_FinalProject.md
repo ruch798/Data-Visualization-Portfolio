@@ -4,7 +4,7 @@
 
 ## User research and interviews 🎙️
 ### 1. Target audience
-My target audience includes tech-savvy people who spend hours in front of the screen, be it playing games, working on the computer from 9-5, or constantly texting their best friend.
+My target audience includes **tech-savvy** folks who **spend hours in front of the screen**, be it playing games, working on the computer from 9-5, or constantly texting their best friend.
 
 I aim to inform these users about the negative impact of excessive digital exposure and seek to persuade them to unplug devices and enjoy the world around them.
 
