@@ -36,6 +36,8 @@ But to diversify the interview responses based on their usage patterns, I chose 
 - Were the colors chosen thoughtfully?
 - Is there anything you would change or do differently?
 
+✍️ [Interview Responses](interview_responses.html)
+
 ### 4. Findings from the interviews
 
 ### 5. Changes I plan on implementing to my visualizations to address the issues identified
