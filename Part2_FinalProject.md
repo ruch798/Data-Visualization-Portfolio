@@ -27,7 +27,7 @@ But to diversify the interview responses based on their usage patterns, I chose 
 
 **Content:**
 - Was the content clear to follow?
-_ 💬 Helpful Direct Quote: _"Yes. Smooth flow of content."_
+- 💬 Helpful Direct Quote: _"Yes. Smooth flow of content."_
 
 **Takeaways:**
 - What was your key takeaway?
