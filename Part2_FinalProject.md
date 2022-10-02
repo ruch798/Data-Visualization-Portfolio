@@ -12,8 +12,8 @@ I aim to inform these users about the negative impact of excessive digital expos
 Coming from a CS undergrad background, most of my friends or colleagues are heavy tech users. 
 
 But to diversify the interview responses based on their usage patterns, I chose to interview: 
-- a gaming enthusiast, 
-- a social media influencer who can never miss an update online and 
+- a social media influencer who can never miss an update online,
+- a gaming enthusiast, and 
 - a programmer who is glued to the laptop for nearly the whole day. 
 
 ### 3. Interview script
