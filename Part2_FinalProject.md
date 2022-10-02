@@ -56,6 +56,9 @@ But to diversify the interview responses based on their usage patterns, I chose 
 - One of the interviewees was interested in reading more about the data depicted and more call-to-action items.
 
 ### 5. Changes I plan on implementing to my visualizations to address the issues identified
+**Adjusting tool-tip format**
+- Currently the tool tip format is causing the text to go outside the screen area which is not ideal. I will be modifying this using Tableau.
+
 **More narrative text**
 - Since this was a draft storyboard, I hadn't added much narrative text.
 However, I plan on including that in Part III with the help of my research this week.
