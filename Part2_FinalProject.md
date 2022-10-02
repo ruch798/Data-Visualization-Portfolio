@@ -1,6 +1,6 @@
 # Part II: Final Project
 ## Storyboard 📜
-<script src="https://carnegiemellon.shorthandstories.com/staying-healthy-in-the-age-of-screens/embed.js"></script>
+[Shorthand storyboard](https://carnegiemellon.shorthandstories.com/staying-healthy-in-the-age-of-screens/index.html)
 
 ## User research and interviews 🎙️
 ### 1. Target audience
