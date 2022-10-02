@@ -36,7 +36,7 @@ But to diversify the interview responses based on their usage patterns, I chose 
 - Were the colors chosen thoughtfully?
 - Is there anything you would change or do differently?
 
-✍️ [Interview Responses](interview_responses.html)
+<a href="interview_responses.html" title="Interview Responses">✍️ Interview Responses</a>
 
 ### 4. Findings from the interviews
 
