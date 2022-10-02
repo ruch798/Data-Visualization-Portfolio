@@ -14,9 +14,27 @@ Coming from a CS undergrad background, most of my friends or colleagues are heav
 But to diversify the interview responses based on their usage patterns, I chose to interview: 
 - a gaming enthusiast, 
 - a social media influencer who can never miss an update online and 
-- a programmer who is glued to the laptop for nearly the whole day 
+- a programmer who is glued to the laptop for nearly the whole day. 
 
 ### 3. Interview script
+**Context:**
+- Do you track your social media usage?
+
+**Audience:**
+- Who do you think is the intended audience for this?
+
+**Content:**
+- Was the content clear to follow?
+
+**Takeaways:**
+- What was your key takeaway?
+- Is there anything you find surprising or confusing?
+
+**Visuals:**
+- Did the charts help to grasp the information presented?
+- Did the visuals evoke a strong reaction?
+- Were the colors chosen thoughtfully?
+- Is there anything you would change or do differently?
 
 ### 4. Findings from the interviews
 
