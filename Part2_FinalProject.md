@@ -87,6 +87,7 @@ One of my initial ideas for this is the introduction of some of my key takeaways
 
 ### What didn’t work? 😟
 - Because the position of the map wasn't fixed, the highlighted text was outside the boundaries of the visualization.
+- The notification charts should be re-positioned to improve the flow of the storyboard. It could be displayed right before I move into explaining the negative impact of excessive screen time.
 - They would like to see Data points about the negative effects of phone addiction along with the displayed text.
 
 ### What questions came up? 🤔
@@ -100,6 +101,9 @@ One of my initial ideas for this is the introduction of some of my key takeaways
 <p align="center">
 <img src="https://i.imgur.com/m6VADyF.png" height=500>
 </p>
+
+- I re-ordered the elements of the storyboard to improve the flow based on the in-class peer feedback. I found this suggestion particularly useful.
+- I chose to not include charts for the negative effects of phone addiction due to lack of research paper data in this area.
 
 ## Moodboard 📱
 <p align="center">
