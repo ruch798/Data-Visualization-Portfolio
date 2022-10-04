@@ -86,6 +86,7 @@ One of my initial ideas for this is the introduction of some of my key takeaways
 - The storyboard has a clean aesthetic.
 
 ### What didn’t work? 😟
+- Because the position of the map wasn't fixed, the highlighted text was outside the boundaries of the visualization.
 - They would like to see Data points about the negative effects of phone addiction along with the displayed text.
 
 ### What questions came up? 🤔
@@ -95,7 +96,10 @@ One of my initial ideas for this is the introduction of some of my key takeaways
 - Since the group wanted me to look into more research paper findings and add more charts, I plan on doing so to enhance the storyboard.
 
 ### Changes I made 🖌
-
+- Fixed the position of the map to ensure the highlighted textbox stays within the boundaries of the visualization.
+<p align="center">
+<img src="https://i.imgur.com/m6VADyF.png" height=500>
+</p>
 
 ## Moodboard 📱
 <p align="center">
