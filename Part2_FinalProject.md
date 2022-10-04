@@ -80,6 +80,23 @@ One of my initial ideas for this is the introduction of some of my key takeaways
 **More call-to-action items**
 - I also plan to include more call-to-action items.
 
+## In-class Peer Feedback
+### What worked? 😁
+- The elements of the story were highlighted well with supporting charts and visuals.
+- The storyboard has a clean aesthetic.
+
+### What didn’t work? 😟
+- They would like to see Data points about the negative effects of phone addiction along with the displayed text.
+
+### What questions came up? 🤔
+- They were wondering if any research paper data could support my statements about an increase in level of exhaustion with an increase in phone usage.
+
+### What new inspiration arose? ✨
+- Since the group wanted me to look into more research paper findings and add more charts, I plan on doing so to enhance the storyboard.
+
+### Changes I made 🖌
+
+
 ## Moodboard 📱
 <p align="center">
 <img src="https://i.imgur.com/xdQ0Tdg.png" height=700>
