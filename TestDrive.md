@@ -40,3 +40,6 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+## Comparison of Player Strengths
+<div class="flourish-embed flourish-radar" data-src="visualisation/11370684"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
