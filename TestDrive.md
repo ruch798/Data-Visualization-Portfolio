@@ -53,5 +53,5 @@ Created using RAWGraphs
 Created using RAWGraphs
 
 ## Donors & Recipients of Food in Pittsburgh
-<a href="kepler.gl.html">Visualization 1</a>
-<a href="kepler.gl (1).html">Visualization 2</a>
+- <a href="kepler.gl.html">Visualization 1</a>
+- <a href="kepler.gl (1).html">Visualization 2</a>
