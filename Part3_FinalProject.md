@@ -1,3 +1,3 @@
 # Part III: Final Project
 
-## [Portfolio Home page 🏠](README.md)
+### [Go back to Home page 🏠](README.md) | [Part I](Part1_FinalProject.md) | [Part II](Part2_FinalProject.md) | [Part III](Part3_FinalProject.md) 
