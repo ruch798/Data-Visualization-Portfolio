@@ -110,4 +110,4 @@ One of my initial ideas for this is the introduction of some of my key takeaways
 <img src="https://i.imgur.com/xdQ0Tdg.png" height=700>
 </p>
 
-## [Portfolio Home page 🏠](README.md)
+### [Go back to Home page 🏠](README.md) | [Part I](Part1_FinalProject.md) | [Part II](Part2_FinalProject.md) | [Part III](Part3_FinalProject.md) 
