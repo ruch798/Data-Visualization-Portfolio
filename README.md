@@ -28,7 +28,7 @@ Through this course, I aim to:
 As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business. I plan to work as a **Product Manager** in the near future where I can utilize a data-driven approach to strategize effectively!
 
 ## Portfolio 🎨
-
+- [Test Driving Visualizations](TestDrive.md) : In-Class Exercises
 - [Assignment 1](https://ruch798.github.io/Data-Visualization-Portfolio/) : Setting up my online portfolio (this website!)
 - [Assignment 2](Assignment2.md) : Visualizing government debt
 - [Assignment 3 and 4](Assignment3&4.md) : Critique by Design
