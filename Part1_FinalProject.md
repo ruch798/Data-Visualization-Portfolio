@@ -272,4 +272,4 @@ It was interesting to hear that the group wanted me to look into research conduc
 <img src="https://i.imgur.com/uckYH1R.png" height=600>
 </p> 
 
-## [Portfolio Home page 🏠](README.md)
+### [Go back to Home page 🏠](README.md) | [Part I](Part1_FinalProject.md) | [Part II](Part2_FinalProject.md) | [Part III](Part3_FinalProject.md) 
