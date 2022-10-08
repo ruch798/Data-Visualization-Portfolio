@@ -208,4 +208,4 @@ Since I wanted to keep the text in the chart to a minimum, I decided to only sho
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## [Portfolio Home page 🏠](README.md)
+### [Go back to Home page 🏠](README.md)
