@@ -109,3 +109,5 @@ One of my initial ideas for this is the introduction of some of my key takeaways
 <p align="center">
 <img src="https://i.imgur.com/xdQ0Tdg.png" height=700>
 </p>
+
+## [Portfolio Home page 🏠](README.md)
