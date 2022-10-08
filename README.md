@@ -30,7 +30,8 @@ As businesses today are becoming more inextricably linked with information techn
 ## Portfolio 🎨
 
 - [Assignment 1](https://ruch798.github.io/Data-Visualization-Portfolio/) : Setting up my online portfolio (this website!)
-- [Assignment 2](Assignment2.md)
-- [Assignment 3 and 4](Assignment3&4.md)
-- [Part I: Final Project](Part1_FinalProject.md)
-- [Part II: Final Project](Part2_FinalProject.md)
+- [Assignment 2](Assignment2.md) : Visualizing government debt
+- [Assignment 3 and 4](Assignment3&4.md) : Critique by Design
+- [Part I: Final Project](Part1_FinalProject.md) : Project Outline and Initial Sketches
+- [Part II: Final Project](Part2_FinalProject.md) : Storyboards and User Research
+- [Part III: Final Project](Part3_FinalProject.md) : Final Deliverable
