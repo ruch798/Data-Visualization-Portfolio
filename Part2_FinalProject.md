@@ -110,4 +110,8 @@ One of my initial ideas for this is the introduction of some of my key takeaways
 <img src="https://i.imgur.com/xdQ0Tdg.png" height=700>
 </p>
 
-### [Go back to Home page 🏠](README.md) | [Part I](Part1_FinalProject.md) | [Part II](Part2_FinalProject.md) | [Part III](Part3_FinalProject.md) 
+## Navigate 🧭 
+- [Go back to Home page 🏠](README.md)
+- [Part I: Project Outline and Initial Sketches](Part1_FinalProject.md)
+- [Part II: Storyboards and User Research](Part2_FinalProject.md)
+- [Part III: Final Deliverable](Part3_FinalProject.md) 
