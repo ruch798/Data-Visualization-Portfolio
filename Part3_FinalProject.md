@@ -69,22 +69,22 @@ The changes I made were centered around the following:
 
 - I added subtitles to make the charts more descriptive. I specified the time frame during which the notification data was captured.
  <p align="center">
-<img src="https://i.imgur.com/P5lsr2p.png" height=300>
+<img src="https://i.imgur.com/P5lsr2p.png" height=500>
  </p>
 
 - I improved the legend to add more context to the visualizations. The interest level for mobile phone addiction wasn't easy to understand, per the TA's feedback. So I added high and low to provide context about the scale that Google Trends adopted.
  <p align="center">
-<img src="https://i.imgur.com/5THF2ws.png" height=300>
+<img src="https://i.imgur.com/5THF2ws.png" height=500>
  </p>
 
 - I improved the color scheme of the charts to be more coherent and consistent with the mood board. 
  <p align="center">
-<img src="https://i.imgur.com/Fv7Pboj.png" height=300>
+<img src="https://i.imgur.com/Fv7Pboj.png" height=500>
  </p>
 
 - I highlighted certain words in the title to emphasize the critical message.
  <p align="center">
-<img src="https://i.imgur.com/y3XhNJT.png" height=300>
+<img src="https://i.imgur.com/y3XhNJT.png" height=500>
  </p>
 
 ### The audience 👥
