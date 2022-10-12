@@ -1,5 +1,5 @@
 # Part III: Final Project
-## Summary
+## Summary 📖
 
 [Data Story Shorthand](https://carnegiemellon.shorthandstories.com/staying-healthy-in-the-age-of-screens/index.html)
 
@@ -51,9 +51,9 @@ The changes I made were centered around the following:
 
 - Re-aligning and adding chart elements to make them more readable.
 
-## Final data story
+## Final data story 🎥
 
-### Changes I made since the completion of Part II
+### Changes I made since the completion of Part II ⚙️
 
 - I re-ordered the storyboard elements to improve the flow based on the in-class peer feedback. I found this suggestion particularly useful.
 
@@ -69,7 +69,7 @@ The changes I made were centered around the following:
 
 - I highlighted certain words in the title to emphasize the critical message.
 
-### The audience
+### The audience 👥
 
 Since my interviewees agreed with my initial idea of the primary target audience, I chose to stick to my initial choice for the final data story. 
 
@@ -79,7 +79,7 @@ I want to educate these people on the perils of too much screen time and get the
 
 Conducting extensive user research was highly beneficial to me. Knowing the audience helped me in tailoring the right content and doing so will enable me to deliver a presentation that will be more effective. 
 
-### Narrowing the focus 
+### Narrowing the focus 🔎
 
 I realized that the interviewees were inclined towards learning more about how they could manage their screen time better and wanted access to more resources to help them. 
 
@@ -91,7 +91,7 @@ I decided to make the following adjustments to make my final project work for th
 
 Based on this, I decided to introduce more call-to-action elements with links to resources.
 
-### Design Decisions
+### Design Decisions 🎨
 
 I stuck by the adage "A picture is worth a thousand words" to tailor my storyboard. I avoided adding a lot of text and maintaining a clean aesthetic that resonated with the audience. They also appreciated that I highlighted the elements of the story with supporting charts and visuals. 
 
