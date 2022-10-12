@@ -277,3 +277,4 @@ It was interesting to hear that the group wanted me to look into research conduc
 - [Part I: Project Outline and Initial Sketches](Part1_FinalProject.md)
 - [Part II: Storyboards and User Research](Part2_FinalProject.md)
 - [Part III: Final Deliverable](Part3_FinalProject.md) 
+- [Data Story Shorthand](https://carnegiemellon.shorthandstories.com/staying-healthy-in-the-age-of-screens/index.html)
