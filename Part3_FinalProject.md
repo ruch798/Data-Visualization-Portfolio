@@ -1,8 +1,7 @@
 # Part III: Final Project
+## [Data Story Shorthand](https://carnegiemellon.shorthandstories.com/staying-healthy-in-the-age-of-screens/index.html) 🎬 
+
 ## Summary 📖
-
-[Data Story Shorthand](https://carnegiemellon.shorthandstories.com/staying-healthy-in-the-age-of-screens/index.html)
-
 ### Part I
 
 I started the project by highlighting the high-level summary, identifying the reader's objective, and laying down the project structure in terms of setup, conflict, and resolution.
