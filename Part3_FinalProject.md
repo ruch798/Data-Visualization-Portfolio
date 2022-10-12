@@ -102,3 +102,4 @@ Aligning the color scheme with the content theme improved the experience of the 
 - [Part I: Project Outline and Initial Sketches](Part1_FinalProject.md)
 - [Part II: Storyboards and User Research](Part2_FinalProject.md)
 - [Part III: Final Deliverable](Part3_FinalProject.md) 
+- [Data Story Shorthand](https://carnegiemellon.shorthandstories.com/staying-healthy-in-the-age-of-screens/index.html)
