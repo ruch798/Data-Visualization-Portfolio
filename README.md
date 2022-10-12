@@ -35,3 +35,4 @@ As businesses today are becoming more inextricably linked with information techn
 - [Part I: Final Project](Part1_FinalProject.md) : Project Outline and Initial Sketches
 - [Part II: Final Project](Part2_FinalProject.md) : Storyboards and User Research
 - [Part III: Final Project](Part3_FinalProject.md) : Final Deliverable
+- [Data Story Shorthand](https://carnegiemellon.shorthandstories.com/staying-healthy-in-the-age-of-screens/index.html)
