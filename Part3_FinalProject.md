@@ -101,13 +101,10 @@ Conducting extensive user research was highly beneficial to me. Knowing the audi
 
 I realized that the interviewees were inclined towards learning more about how they could manage their screen time better and wanted access to more resources to help them. 
 
-I decided to make the following adjustments to make my final project work for the audience:
-
-- Helping them recognize why there is a drive or desire to use social media 
-
-- Resources to help them navigate through this situation
-
-Based on this, I decided to introduce more call-to-action elements with links to resources.
+I decided to introduce more call-to-action elements with links to resources to make my final project work for the audience.
+<p align="center">
+   <img src="https://i.imgur.com/KQWunZa.png" height=300>
+ </p>
 
 ### Design Decisions 🎨
 
