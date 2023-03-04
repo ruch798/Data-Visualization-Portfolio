@@ -10,12 +10,6 @@ I'm Ruchi Bhatia, a Computer Engineering graduate pursuing my Master's degree at
 
 I'm the youngest [3x Kaggle Grandmaster](https://www.kaggle.com/ruchi798) and a [Data Science Global Ambassador at Z by HP](https://www.hp.com/us-en/workstations/industries/data-science/ambassador-ruchi-bhatia.html).
 
-<p align="center">
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/dataset/light" width=150/>
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/notebook/light" width=150/>
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/discussion/light" width=150/>
-</p>
-
 Having started coding at an early age, I can say my interest in this field has only grown with time. I gravitate more towards Data Science and Data Analysis. Working in the technology sector of various MNCs like Sony and Colgate-Palmolive has helped me gain relevant experience in the industry. 
 
 ## What I hope to learn 👩‍🎓
